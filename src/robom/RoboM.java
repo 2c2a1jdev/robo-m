@@ -144,7 +144,7 @@ public class RoboM {
                     m.mouseMove(220, nome);
                     Click.click(m);
                     Colar.colando(m);
-                    /*INFOS GESTOR                   
+                    //INFOS GESTOR                   
                     Abrir.vivocorp(m);
                     m.mouseMove(140, 500);
                     m.delay(1500);
@@ -183,7 +183,7 @@ public class RoboM {
                     m.mouseMove(490,tel);
                     Click.click(m);
                     Colar.colando(m);
-                    *///COPIAR DATA DO ULTIMO PEDIDO
+                    //COPIAR DATA DO ULTIMO PEDIDO
                     Abrir.vivocorp(m);
                     m.mouseMove(140, 500);
                     m.delay(3500);
